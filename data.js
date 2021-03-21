@@ -1,5 +1,5 @@
 data={
     nom:'wahbi',
-    prenom:'ayoub',
-    
+    prenom:'anass',
+    ville:'rabat',
 }
