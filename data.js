@@ -9,7 +9,7 @@ const add=(data)=>{
 
 }
 
-const supp=()=>{
+const supp=(data)=>{
     console.log('supp');
 }
 
