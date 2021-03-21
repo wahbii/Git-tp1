@@ -19,3 +19,4 @@ const update=()=>{
 const sauv=()=>{
     console.log('hello')
 }
+const a='hello'
