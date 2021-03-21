@@ -1,5 +1,10 @@
 data={
-    nom:'wahbi',
+    nom:'aloussi',
     prenom:'anass',
     ville:'rabat',
+}
+
+const add=()=>{
+    console.log('ajouter');
+
 }
