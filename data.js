@@ -4,7 +4,7 @@ data={
     ville:'rabat',
 }
 
-const add=()=>{
+const add=(data)=>{
     console.log('ajouter');
 
 }
