@@ -12,3 +12,7 @@ const add=()=>{
 const supp=()=>{
     console.log('supp');
 }
+
+const update=()=>{
+    console.log('supp');
+}
