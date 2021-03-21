@@ -8,3 +8,7 @@ const add=()=>{
     console.log('ajouter');
 
 }
+
+const supp=()=>{
+    console.log('supp');
+}
