@@ -16,3 +16,6 @@ const supp=(data)=>{
 const update=()=>{
     console.log('supp');
 }
+const sauv=()=>{
+    console.log('hello')
+}
